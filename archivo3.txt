@@ -1,1 +1,1 @@
-soy el fichero 3 local
+soy el fichero 3 local y remoto fusionados
